@@ -1,0 +1,41 @@
+.footer {
+    overflow: hidden;
+    position: sticky;
+    background-color: #000;
+    top: 100%;
+    padding: 20px 10px;
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    position: relative;
+    z-index: 2;
+  }
+  
+  h1 {
+    color: white;
+    font-size: 20px;
+    padding: 10px 16px;
+  }
+  
+  a {
+    color: white;
+    text-decoration: none;
+    padding: 6px 18px;
+    font-size: 16px;
+  }
+  a:hover {
+    color: var(--primary-color);
+  }
+  i {
+    padding: 6px 10px;
+  }
+  p {
+    color: wheat;
+    padding: 6px 16px;
+  }
+  
+  .footeryo {
+    display: flex;
+    align-items: center;
+  }
+  
